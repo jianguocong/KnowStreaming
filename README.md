@@ -1,7 +1,6 @@
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/71620349/185368586-aed82d30-1534-453d-86ff-ecfa9d0f35bd.png" width = "256"  div align=center />
-
 </p>
 
 <p align="center">
